@@ -1,8 +1,8 @@
 package response
 
 import (
-	"errcode/errcode"
 	"github.com/gin-gonic/gin"
+	"github.com/wxl095/gin-response/errcode"
 	"net/http"
 )
 
